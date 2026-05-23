@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Tanuja Varshney</h1>
+<h3 align="center">Open Source Contributor | Developer | Tech Enthusiast</h3>
 
-<!--
-**tanuja8923/tanuja8923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Currently learning Web Development
+- 💻 Interested in Open Source & Development
+- 🏆 GSSoC Contributor
+- ⚡ Love building projects
+- 🎯 Goal: Become a MERN stack developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+- C
+- C++
+- Python
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Git & GitHub
+
+---
+
+## 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=tanuja8923&show_icons=true&theme=radical)
+
+---
+
+## 🔥 GitHub Streak
+
+![streak](https://streak-stats.demolab.com?user=tanuja8923&theme=radical)
+
+---
+
+⭐️ From Tanuja Varshney
